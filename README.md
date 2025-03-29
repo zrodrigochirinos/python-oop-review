@@ -35,5 +35,5 @@ The primary goal of `python-oop-review` is educational: to provide a practical e
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/python-oop-review.git
+   git clone https://github.com/upc-pre-202510-1asi0572-sandbox/python-oop-review.git
    cd python-oop-review
