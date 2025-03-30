@@ -1,9 +1,3 @@
-# Class Diagram
-
-Below is the class diagram for `python-oop-review`, illustrating the relationships and hierarchy of classes used to simulate a compilation process in Python. It reflects Python-specific types, method signatures, and naming conventions.
-
-## PlantUML Diagram
-
 ```plantuml
 @startuml
 
