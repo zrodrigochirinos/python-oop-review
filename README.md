@@ -26,6 +26,11 @@ The primary goal of `python-oop-review` is educational: to provide a practical e
 - **Exception Handling**: Simple error handling for resource allocation and execution.
 - **Documentation**: Detailed docstrings for classes, attributes, and methods.
 
+## Class Diagram
+Following is the class diagram representing the relationships between classes in the project:
+
+![Class Diagram](https://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202510-1asi0572-sandbox/python-oop-review/refs/heads/master/docs/class-diagram.md?token=GHSAT0AAAAAAC7JG2V4YRDK3VIXTHS5EFRGZ7JP45Q)
+
 ## Prerequisites
 
 - **Python**: Version 3.6 or higher
