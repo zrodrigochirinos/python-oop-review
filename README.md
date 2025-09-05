@@ -29,7 +29,7 @@ The primary goal of `python-oop-review` is educational: to provide a practical e
 ## Class Diagram
 Following is the class diagram representing the relationships between classes in the project:
 
-![Class Diagram](https://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/upc-pre-202520-1asi0572-3443/python-oop-review/refs/heads/master/docs/class-diagram.puml)
+![Class Diagram](https://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/zrodrigochirinos/python-oop-review/refs/heads/master/docs/class-diagram.puml)
 
 ## Prerequisites
 
